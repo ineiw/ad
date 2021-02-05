@@ -65,6 +65,11 @@ base_convert((base_convert('debug',36,10)-23230976),10,36)
 이값을 join.php로 가입하고
 로그인 해보면 flag가 나오게 됩니다.
 
-
+이값을 출력해본다면
+```php
+flag
+```
+가 나오게됩니다.
+따라서 id : debug | pw : flag 가되며 로그인하면 flag를 얻을수있습니다.
 
 <설명>
